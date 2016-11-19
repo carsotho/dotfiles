@@ -3,11 +3,7 @@
 INSTALL_FILES=(\
   vimrc \
   vim \
-  zshrc \
-  zsh \
-  tmux.conf \
-  gitconfig \
-  gitignore_global \
+  bash_profile \
 )
 
 SOURCE_DIR=$(dirname "${PWD}/${0}")

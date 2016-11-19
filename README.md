@@ -15,5 +15,7 @@ brew install cmake
 
 cd ~/.vim/bundle/YouCompleteMe
 
+git submodule update --init --recursive
+
 ./install.py --tern-completer
 ```
